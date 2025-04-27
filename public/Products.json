@@ -1,0 +1,58 @@
+[
+    {
+      "img": "https://i.postimg.cc/hP41DrPp/Bid1-min.png",
+      "product_name": "DSLR Camera 5D",
+      "product_price": "$249.99",
+      "time_left": "5 days left",
+      "add_fav": true,
+      "id": 12
+    },
+    {
+      "img": "https://i.postimg.cc/kgBN8gSS/Bid2-min.png",
+      "product_name": "Matrins A07 Electric Guitar",
+      "product_price": "$59.99",
+      "time_left": "1 day left",
+      "add_fav": true,
+      "id": 10
+    },
+    {
+      "img": "https://i.postimg.cc/Kv9rRM1F/Bid3-min.png",
+      "product_name": "MacBook Pro",
+      "product_price": "$39.99",
+      "time_left": "4 days left",
+      "add_fav": true,
+      "id": 17
+    },
+    {
+      "img": "https://i.postimg.cc/3xVXZQjc/Bid4-min.png",
+      "product_name": "Ck Watch Antic 1978's",
+      "product_price": "$1,299.99",
+      "time_left": "3 days left",
+      "add_fav": true,
+      "id": 15
+    },
+    {
+      "img": "https://i.postimg.cc/zfhnt20X/Bid5-min.png",
+      "product_name": "RFL Chair Analog",
+      "product_price": "$119.99",
+      "time_left": "6 days left",
+      "add_fav": true,
+      "id": 13
+    },  {
+        "img": "https://i.postimg.cc/4dTprvSv/Bid6-min.png",
+        "product_name": "Death Script Book",
+        "product_price": "$119.99",
+        "time_left": "6 days left",
+        "add_fav": true,
+        "id": 126
+      },
+      {
+        "img": "https://i.postimg.cc/XJc93ZRR/Bid7-min.png",
+        "product_name": "Flower Bouquet",
+        "product_price": "$119.99",
+        "time_left": "6 days left",
+        "add_fav": true,
+        "id": 19
+      }
+  ]
+  
